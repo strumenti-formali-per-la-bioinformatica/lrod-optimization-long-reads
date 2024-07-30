@@ -21,6 +21,8 @@ Per eseguire LROD, utilizza il seguente comando:
 
 Se non viene specificato il `<kmer-frequency-file>`, esso verrà creato automaticamente.
 
+Bisogna installare la libreria [ntHash](https://github.com/bcgsc/ntHash?tab=readme-ov-file) per il corretto funzionamento. 
+
 # Parametri
 
 
